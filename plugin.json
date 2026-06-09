@@ -1,0 +1,26 @@
+{
+  "name": "atlas",
+  "version": "5.0.1-staging.28347f861706",
+  "description": "Turn a stated need into a full system design by mining the Atlas knowledge graph.",
+  "author": "a5c.ai",
+  "license": "MIT",
+  "harness": "opencode",
+  "commands": "commands/",
+  "skills": "skills/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  "keywords": [
+    "atlas",
+    "knowledge-graph",
+    "system-design",
+    "discovery",
+    "process-mining",
+    "data-mining",
+    "mcp",
+    "agent",
+    "LLM",
+    "opencode"
+  ]
+}
